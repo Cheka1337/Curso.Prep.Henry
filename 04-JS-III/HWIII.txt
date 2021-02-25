@@ -1,0 +1,4 @@
+Array: Los Array o arreglos son un tipo de dato que almacena una coleccion de tipos de datos. Pueden ser de cualquier tipo
+Booleano, Entero, Flotante, String etc.
+Se declara de la siguiente manera: var NewArray = [];
+Dentro de los corchetes podremos asignar los valores seguido de una coma

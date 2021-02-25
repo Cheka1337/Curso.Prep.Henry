@@ -1,0 +1,21 @@
+Variables: Las variables son formas de almacenar valores o tipo de datos para usar despues en el codigo de programacion.
+Se declara con la palabra reservada 'var'
+
+String: Un string es un tipo de dato de cadena que contiene texto adentro, una variable puede ser de tipo de dato String
+Se declara dentro de una variable entre comillas "" o ''.
+
+Funciones: Las funciones son sirven para que nuestro codigo ejecute acciones, muchas veces es llamado metodo.
+Las funciones puede realizar acciones como cambiar de valor una variable, sumarla, multiplicarla, devolver un valor etc.
+Se declara con la palabra reservada function(){} puede recibir argumentos(tipos de datos) 
+y lo que se escriba dentro de ella se puede devolver.
+Return: es una palabra reservada que retorna un valor, muchas veces usado dentro de las funciones
+
+If: Utilizamos IF cuando queremos controlar o comparar el flujo de nuestro codigo, lo que se escriba dentro del bloque IF
+verificara si la condicion dada es 'True' para ejecutar cierta parte del codigo, en caso de ser 'False' continuara
+con el resto del codigo, tambien puede ser acompañada por la palabra else (seria un if,else) que ejecutara otro codigo en
+caso de que la primera condicion devuelva False
+Se declara de la siguiente manera: if (condicion) {condicion true} else condicion false;
+
+
+Valores Booleanos: Los valores booleanos son True y False, provienen de la lógica de Boole y los usamos muy seguido (aunque
+no los escribamos) para saber condiciones de nuestro codigo.

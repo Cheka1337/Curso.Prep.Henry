@@ -1,0 +1,28 @@
+Objetos: Los objetos tienen simulitud con los arreglos, porque lo que hacen es almacenar elementos.
+Mientra que los valores de los arreglos estan almacenados en un indice, los objetos tienen un concepto llamado Key:Value.
+Los objetos pueden contener muchos Key:Value y los valores almacenados en ellos son unicos del Objeto, estos a su ves pueden
+ser cualquier tipo de dato.
+Los objetos se declaran de la siguiente manera:
+const newObjeto = {};
+
+
+Propiedades y Metodos: Dentro de los objetos podremos usar propiedades,  hemos usado propiedades antes en los array 
+por ejemplo .length.
+Las propiedades pueden ser llamades a traves de puntos "." seguido del nombre del objeto
+
+Los metodos en objetos son funciones que podemos asignarle a los Key de los objetos para ser invocados mas adelante como
+propiedades de los objetos
+
+Bucle for...in:
+Los blucles for..in nos permiten iterar dentro de cada Key de un objeto y se detendra cuando este alla terminado.
+Ejemplo:
+for (let clave in usuario){
+    console.log(clave);
+    console.log(usuario[clave]);
+}
+
+otación de puntos vs notación de corchetes: 
+La notacion de puntos se dice que se utiliza de manera literal en cuando la usamos en objetos, esta intentara obtener
+el Value dentro de la propiedad escrita.
+Mientras que la notacion de corchetes  se usara cuando el nombre de la propiedad esté contenido en una variable
+Esto nos tener flexibilidad para trabajar con argumentos o numeros.

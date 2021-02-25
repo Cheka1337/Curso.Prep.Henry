@@ -1,0 +1,20 @@
+for: es un Statement que utilizamos para iterar entre valored de un tipo de dato, por ejemplo podemos recorrer cada uno de
+los valores de un Array y hacer algo con ellos como sumar valores, restarlos, multiplicarlos, cambiarlos de valor etc.
+
+&&, ||, !:
+
+&& significaria de manera literal 'y'
+|| significaria de manera literal 'o'
+! significaria de manera literal 'NO' o 'NOT'
+
+Se utiliza && para verificar si dos valores son True
+Se utiliza || para verificar si uno de los dos valores es True
+
+En la estructura de && para que la comparacion entre las dos variables sea True, ambos valores deben ser Verdaderos
+De lo contrario devolvera False
+
+En la estructura de || para que la comparacion devuelva True, solo hace falta que uno de los dos valores sea Verdadero
+Si los dos valores son falsos, devolvera False
+
+El operador '!' se utiliza para decir lo contrario a lo que se lo aplicamos
+Por ejemplo "!true" devolveria el valor False, tambien lo podemos usar para decir que algo no es igual en comparaciones(!=)

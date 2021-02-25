@@ -1,0 +1,12 @@
+Constructors (de Clases):
+Los constructores sirven para heredar propiedades y metodos de otra clase 
+tambien podemos generar nuestros propios constructores de los cuales heredad.
+
+Por ejemplo si tenemos una clase llamada Persona con datos personales adentro,
+Podriamos usar las propiedades de Persona para crear otra clase llamada Alumno
+que contenga los mismos datos ya usados en Persona y agregarle los faltantes
+
+Prototype: Usaremos prototype para crear funciones dentro de las Clases de manera eficiente sin acumular de manera
+rapida la memoria de una computadora.
+
+podemos usar prototupe para definir o usar los métodos ya definidos en todos los objetos creados a partir de esa Clase.
